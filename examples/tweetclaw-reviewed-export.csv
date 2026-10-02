@@ -1,0 +1,4 @@
+tweet_id,account,sentiment,text
+1001,airline-support,Negative,"Delayed again after three gate changes and no clear update."
+1002,airline-support,Positive,"The support team rebooked us quickly and kept everyone informed."
+1003,airline-support,Neutral,"Boarding starts at 18:30 from gate B12."
